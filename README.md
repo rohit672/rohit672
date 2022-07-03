@@ -29,7 +29,7 @@
 
 - 📫 How to reach me: *rohit672kumar@gmail.com*
 
-- ⚡ Fun fact *I can read a novel of 200-300 pages in a day or two 😅*
+- ⚡ Fun fact, *I binge animes 😅*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

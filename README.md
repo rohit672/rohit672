@@ -21,7 +21,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/jonam_lehgab" target="blank"><img src="https://img.shields.io/twitter/follow/jonam_lehgab?logo=twitter&style=for-the-badge" alt="jonam_lehgab" /></a> </p> -->
 - 🎓 I'm an IT undergraduate student at *NSUT, Delhi*.
-- 🔭 I’m currently working on **[EasyBuy](https://github.com/rohit672/EasyBuy)**
+- 🔭 I’m currently working on **Samsung Research Institute Banglore**
 
 - 🌱 I’m learning *React Native, Android App Development*
 
